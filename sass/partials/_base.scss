@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #e5e5e5 !important;
+  position: relative !important;
+}
+
+.wrapper {
+  flex: 1;
+
+}
